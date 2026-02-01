@@ -34,6 +34,8 @@
 
 </p>
 
+<br>
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=walkingparot)](https://github.com/walkingparot/github-readme-stats)
 
 
