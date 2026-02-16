@@ -22,8 +22,6 @@
   [![NetBeans](https://img.shields.io/badge/NetBeans-0078CE?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white)](https://netbeans.apache.org/)
   [![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse-ide&logoColor=white)](https://www.eclipse.org/)
   [![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
-  [![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)](https://www.figma.com/)
-  [![Figma](https://img.shields.io/badge/Figma-figma?style=for-the-badge&logo=figma&logoColor=white)](https://www.figma.com/)
   [![Figma](https://img.shields.io/badge/-Figma-000000?style=for-the-badge&logo=figma)](https://www.figma.com/)
 
 
