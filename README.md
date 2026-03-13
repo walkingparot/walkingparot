@@ -3,14 +3,6 @@
        alt="me" 
        width="800" 
        style="border-radius: 90%;">
-
-  *Working on — [RAEVN](http://tiny.cc/jm2u001)*
-
+  <br>
+  Working on — <a href="http://tiny.cc/jm2u001">RAEVN</a>
 </p>
-
-
-
-
-
-
-
