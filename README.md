@@ -3,8 +3,6 @@
        alt="me" 
        width="800" 
        style="border-radius: 90%;">
-
-  
 </p>
 
 
