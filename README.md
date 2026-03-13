@@ -3,8 +3,6 @@
        alt="me" 
        width="800" 
        style="border-radius: 90%;">
-  
-  *Replies at UTC+8. I will get back to you within 48 hours.*
 
   *Working on — [RAEVN](http://tiny.cc/jm2u001)*
 
