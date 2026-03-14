@@ -7,7 +7,6 @@
  
 </p>
 
- <p align="right">
-  <em>Working on — <a href="http://tiny.cc/jm2u001">RAEVN</a></em>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-</p>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<em>Working on — <a href="http://tiny.cc/jm2u001">RAEVN</a></em>
+
 
